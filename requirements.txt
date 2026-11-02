@@ -1,0 +1,5 @@
+streamlit>=1.40
+requests>=2.32
+pydantic>=2.7
+reportlab>=4.2
+pillow>=10.4
